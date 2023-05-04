@@ -20,7 +20,8 @@ function Home() {
           complication they face and how or more precisely what could be a option to catch themself with better things.
           For the same purpose we have carried out a survey in banaras and prepared a report on the same and this report has served as a bone of 
           contention between the availabilty of other datas like Ropeway planning , bus stops availabilty , availability of lands and residential 
-          buildings and other relevant attributs which in a way or other effects our tranportation system and behaviour of which we did a study and concluded a result.
+          buildings and other relevant attributs which in a way or other effects our tranportation system and behaviour of which we did a study 
+          and concluded a result.
           </p>
         </div>
         </div>
@@ -92,8 +93,8 @@ function Home() {
                     </tr>
                   </table>
               </li>
-              <p className="para1">From the given data of polulation and tourists, we see the rise of polulation living and coming to Varanasi. 
-                Which results into various transportation challanges here.</p>
+              <p className="para1">From the given data of polulation and tourists, we see the rise of polulation 
+              living and coming to Varanasi. Which results into various transportation challanges here.</p>
 
             </ol>
           </div>
