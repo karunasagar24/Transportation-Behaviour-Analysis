@@ -7,7 +7,7 @@ import "../styles/Projects.css";
 function Projects1() {
   return (
     <div className="projects">
-      <h1> My Personal Projects</h1>
+      <h1>Maps Description</h1>
       <div className="projectList">
         {ProjectList1.map((project1, idx) => {
           return (
@@ -16,23 +16,21 @@ function Projects1() {
         })}
       </div>
       <div>
-      <p>A total of 151 surveys were collected to study the transportation patters of both tourist and local netizens. 
-          Being a tourist attraction there was ample data for both locals and tourists corresponding to 58.7% and 41.3% respectively.
-          Out of total surveys there was a good response from both the genders having a percentage of 62% for male and 38% for females.
-          Having a usage of diversified transportation practices for diversified usage there were different types and modes of transport 
-          used by different age groups. Our data collection outlined the pragmatic use of transport with respect to age group.
-          The maximum usage of transport was found to be used by the people falling under the age group of 16 to 30 years having usage 
-          corresponding to 59.7% of the total survey. Second group with maximum usage was found to be falling between the age group of 
-          31 to 45 sharing the percentage of 24.8% While the people between the age group of 45 to 60 counted the share of 7.4% contradicting 
-          to which senior locals and tourist contributed for 2.7% And 5.4% was usage found by people under the age of 16 years.</p>
-      <h4>TRANSPORT BEHAVIOUR</h4>
-          <p>Of the diverse survey collected, the majority were found to be using bikes for their routine traveling(42.1%) and there 
-          were other modes of transport which were being practiced which were found to be 37.9% for auto and bicycle was found to be 11%.
-          Majority of localities were found using the bike or more precisely two wheelers for their daily
-          Majority of the population dont use the buses for local travelling out of which majority of travellers who used buses were 
-          tourist while those who were locally from varanasi used only bike as their means of transport.
-          Womens found it more safe to travel using their personel bikes and scooters. 
-          Out of total tourists most of the tourist preferred tuk tuks or autorickshaws to travel from their places to other</p>
+      <p>For creating these maps, we have collected data from <a href="https://www.kashigeohub.org/">Kashi Geo Hub</a> website and and also from the dropbox available -
+        <a href="https://www.dropbox.com/sh/s277k81wbrby7fa/AABdxBgRJH2YGDMhQOJUv7ila?dl=0" >Varanasi_Spatial_Data.</a>
+        For creating these maps, we used the ArcGIS 10.8.1 software for buffer and network analysis. GIS buffer, 
+        network and area analysis was used in measuring bus stop accessibility considering the road network surrounding it.The bus stops 
+        data available in .kml format is analyzed using a software named Google Earth pro. </p>
+      <h4>Maps Overview:</h4>
+          <p>The objective of these maps are to develop transit accessibility to different places mainly focusing 
+          on the religious structures based on the number and locations of bus stops.
+          In order to improve the accessibility of the bus service shown in the map, a number of stops should be appropriately 
+          located along the segment. Since buses will serve all stops, the increased bus travel time per trip will increase 
+          proportionally with the number of stops. 
+          To determine the optimal number and locations of bus stops considering realistic street patterns and spatial 
+          boarding/alighting demand distributions. It is found that the optimal number and locations of the stops will be 
+          affected by users' value of time, access speed and demand.
+</p>
       </div>
     </div>
   );

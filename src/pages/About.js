@@ -10,6 +10,7 @@ function About() {
           <p>
             Name - Karuna Sagar
           </p>
+          
       </div>
     </div></div>
   );

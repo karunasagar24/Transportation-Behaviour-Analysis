@@ -25,7 +25,12 @@
     grid-template-columns: 1fr 1fr 1fr;
     place-items: center;
   }
-  
+  .projects h4 {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: #F4BC1C;
+    height: 10px;
+  }
   /* MENU ITEM STYLING */
   
   .projectItem {
