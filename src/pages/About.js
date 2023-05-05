@@ -1,51 +1,31 @@
 import React from "react";
 import "../styles/About.css";
-import img from "./Logo.png";
+import img from "./bhulogo.png";
 
 function About() {
   return (
     <>
-         <section id="about-section">
-            <div class="about-left">
-                <img src={img} alt="About Img"/>
+        <section>
+            <div class = "image">
+                <img src={img}/>
             </div>
-            <div class="about-right">
-                <h1>Who We Are</h1>
-                <p>We are currently Civil Engineering students at Indian Institute Of Technology, Varanasi (BHU)
-                We have done this project as our under graduate project under the guidence of Professor Dr. Agnivesh Pani.
 
+            <div class = "content">
+                <h2>Who We Are</h2>
+
+                <p>We are currently Civil Engineering students at Indian Institute Of Technology, Varanasi (BHU)
+                We have done this project as our under graduate project under the guidence of Professor Dr. Agnivesh Pani.</p>
+                <p>
+                    Member 1 : Karuna Sagar (karuna.sagar.civ20@itbhu.ac.in)
                 </p>
-                <div class="address">
-                    <ul>
-                        <li>
-                            <span class="address-logo">
-                                <i class="fas fa-paper-plane"></i>
-                            </span>
-                            <p>Member 1</p>
-                            <span class="saprater">:</span>
-                            <p>Karuna Sagar</p> 
-                            <p>(karuna.sagar.civ20@itbhu.ac.in)</p>
-                        </li>
-                        <li>
-                            <span class="address-logo">
-                                <i class="fas fa-phone-alt"></i>
-                            </span>
-                            <p>Member 2</p>
-                            <span class="saprater">:</span>
-                            <p>Pushpendra Kumar</p> 
-                            <p>(pushpendra.krsonker.civ20@itbhu.ac.in)</p>
-                        </li>
-                        <li>
-                            <span class="address-logo">
-                                <i class="far fa-envelope"></i>
-                            </span>
-                            <p>Member 3</p>
-                            <span class="saprater">:</span>
-                            <p>Palak Agrawal</p> 
-                            <p>(palak.agrawal.cd.civ20@itbhu.ac.in)</p>
-                        </li>
-                    </ul>
-                </div>
+                <p>
+                    Member 2 : Pushpendra Kumar Sonker
+                    (pushpendra.krsonker.civ20@itbhu.ac.in)
+                </p>
+                <p>
+                    Member 3 : Palak Agrawal (palak.agrawal.cd.civ20@itbhu.ac.in)
+                </p>
+                
             </div>
         </section>
 

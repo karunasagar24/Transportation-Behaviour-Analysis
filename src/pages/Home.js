@@ -3,11 +3,12 @@ import "../styles/Home.css";
 
 function Home() {
   return (
+    <>
     <div className="home">
-    <div className="intro">
-        <h2>Introduction 🤣🤣🤣🤣</h2>
-        <div className="prompt">
-          <p>In this project we aimed to study the transport behavior of Varanasi city public transport and how local people use the means of 
+      <div className="prompt">
+      <div className="about">
+      <h2>Introduction</h2>
+      <p>In this project we aimed to study the transport behavior of Varanasi city public transport and how local people use the means of 
           public transport for their routine travel to their working and to public places and have 
           analyzed and gave out the conclusion for the same of how to improve the transit behavior more effectively and efficiently.    
           For the same we have carried out the survey of local varanasi netizens and found out the usage of various transport facilities 
@@ -16,9 +17,6 @@ function Home() {
           and residential plotting to analyze it with our survey collected to plot our analyses 
           and data on a website to assist in further uses of transportation patterns.
           </p>
-        </div>
-        </div>
-      <div className="about">
         <h2> A Glance at Varanasi</h2>
         <div className="prompt">
           <p>Since from the ages , be it a religious aspect or to being a place for good revenue generation or for other 
@@ -37,6 +35,7 @@ function Home() {
           buildings and other relevant attributs which in a way or other effects our tranportation system and behaviour of which we did a study 
           and concluded a result.
           </p>
+        </div>
         </div>
         </div>
           <div className="skills">
@@ -113,6 +112,7 @@ function Home() {
             </ol>
           </div>
       </div>
+    </>
   );
 }
 export default Home;
