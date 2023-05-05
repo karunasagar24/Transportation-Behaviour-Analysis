@@ -7,15 +7,17 @@ function ProjectDisplay() {
   const { id } = useParams();
   const project = ProjectList[id];
   return (
+    <>
     <div className="project">
       <h1> {project.name}</h1>
       <img src={project.image} />
-      <div className="des">
     </div>
+      <div className="des">
       <p>
         <b>Description:</b> {project.description}
       </p>
     </div>
+    </>
   );
 }
 
