@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="home">
     <div className="intro">
-        <h2>Introduction</h2>
+        <h2>Introduction 🤣🤣🤣🤣</h2>
         <div className="prompt">
           <p>In this project we aimed to study the transport behavior of Varanasi city public transport and how local people use the means of 
           public transport for their routine travel to their working and to public places and have 
