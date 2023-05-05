@@ -41,8 +41,8 @@ function About() {
                             </span>
                             <p>Member 3</p>
                             <span class="saprater">:</span>
-                            <p>Palak Agarwal</p> 
-                            <p>(palak.agarwal.cd.civ20@itbhu.ac.in)</p>
+                            <p>Palak Agrawal</p> 
+                            <p>(palak.agrawal.cd.civ20@itbhu.ac.in)</p>
                         </li>
                     </ul>
                 </div>

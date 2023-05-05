@@ -17,7 +17,7 @@ function Projects1() {
       </div>
       <div>
       <p>For creating these maps, we have collected data from <a href="https://www.kashigeohub.org/">Kashi Geo Hub</a> 
-        For creating these maps, we used the ArcGIS 10.8.1 software for buffer and network analysis. GIS buffer, 
+        . For creating these maps, we used the ArcGIS 10.8.1 software for buffer and network analysis. GIS buffer, 
         network and area analysis was used in measuring bus stop accessibility considering the road network surrounding it.The bus stops 
         data available in .kml format is analyzed using a software named Google Earth pro. </p>
       <h4>Maps Overview:</h4>

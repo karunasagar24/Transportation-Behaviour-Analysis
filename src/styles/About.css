@@ -9,6 +9,8 @@
     justify-content: space-between;
     align-items: center;
     padding: 80px 12%;
+    color: #21325e;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .about-left img{
     width: 320px;
@@ -25,7 +27,7 @@
 }
 
 .about-right h1 {
-    color: #e74d06;
+    color: #21325e;;
     font-size: 37px;
     margin-bottom: 5px;
 }
@@ -46,7 +48,7 @@
 
 .address .address-logo {
     margin-right: 15px;
-    color: #e74d06;
+    color: #21325e;;
 }
 
 .address .saprater {
@@ -67,5 +69,5 @@
 .expertise .expertise-logo {
     font-size: 19px;
     margin-right: 10px;
-    color: #e74d06;
+    color: #21325e;;
 }
