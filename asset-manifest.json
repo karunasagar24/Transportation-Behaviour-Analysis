@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.4aef8528.css",
+    "main.js": "/react-gh-pages/static/js/main.c73382f1.js",
+    "static/js/787.fb771931.chunk.js": "/react-gh-pages/static/js/787.fb771931.chunk.js",
+    "static/media/map_google_earth1.jpg": "/react-gh-pages/static/media/map_google_earth1.d4a36c58271af3227202.jpg",
+    "static/media/1st.jpg": "/react-gh-pages/static/media/1st.357b96dfd68f7cb73eff.jpg",
+    "static/media/buffer2.png": "/react-gh-pages/static/media/buffer2.391f43e4581140f67ca2.png",
+    "static/media/buffer1.png": "/react-gh-pages/static/media/buffer1.2394bf3836f814e3db1d.png",
+    "static/media/ropeway.png": "/react-gh-pages/static/media/ropeway.dfced9ab79fdeae64ce6.png",
+    "static/media/map279.png": "/react-gh-pages/static/media/map279.19e3f50aa8fb77293cb2.png",
+    "static/media/Logo.png": "/react-gh-pages/static/media/Logo.4d25849dcecdfb3703a7.png",
+    "static/media/bus_status3.png": "/react-gh-pages/static/media/bus_status3.e16590386a97d5613068.png",
+    "static/media/solution.png": "/react-gh-pages/static/media/solution.44b7b42b43586db45e6c.png",
+    "static/media/problems2.png": "/react-gh-pages/static/media/problems2.b1af2a6470ffa03e054f.png",
+    "static/media/mode2.png": "/react-gh-pages/static/media/mode2.c868ed353fd7050c12af.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.4aef8528.css.map": "/react-gh-pages/static/css/main.4aef8528.css.map",
+    "main.c73382f1.js.map": "/react-gh-pages/static/js/main.c73382f1.js.map",
+    "787.fb771931.chunk.js.map": "/react-gh-pages/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aef8528.css",
+    "static/js/main.c73382f1.js"
+  ]
+}
