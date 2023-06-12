@@ -60,49 +60,49 @@ function Home() {
                       <th>Year</th>
                       <th><a style={{ marginLeft: '.5rem' }}></a>International</th>
                       <th><a style={{ marginLeft: '.5rem' }}></a>Domestic</th>
-                      {/* <th><a style={{ marginLeft: '2rem' }}></a>Total</th> */}
+                      <th><a style={{ marginLeft: '2rem' }}></a>Total</th>
                     </tr>
                     <tr>
                       <td>2013</td>
                       <td><a style={{ marginLeft: '2rem' }}>285,252</a></td>
                       <td><a style={{ marginLeft: '.3rem' }}></a>4966,161</td>
-                      {/* <td><a style={{ marginLeft: '.5rem' }}></a>5,251,413</td> */}
+                      <td><a style={{ marginLeft: '.5rem' }}></a>5,251,413</td>
                     </tr>
                     <tr>
                       <td>2014</td>
                       <td><a style={{ marginLeft: '2rem' }}></a>287,761</td>
                       <td>5,202,236</td>
-                      {/* <td><a style={{ marginLeft: '.5rem' }}></a>5,489,997</td> */}
+                      <td><a style={{ marginLeft: '.5rem' }}></a>5,489,997</td>
                     </tr>
                     <tr>
                       <td>2015</td>
                       <td><a style={{ marginLeft: '2rem' }}></a>302,370</td>
                       <td>5,413,927</td>
-                      {/* <td><a style={{ marginLeft: '.5rem' }}></a>5,716,297</td> */}
+                      <td><a style={{ marginLeft: '.5rem' }}></a>5,716,297</td>
                     </tr>
                     <tr>
                       <td>2016</td>
                       <td><a style={{ marginLeft: '2rem' }}></a>312,519</td>
                       <td>5,600,146</td>
-                      {/* <td><a style={{ marginLeft: '.5rem' }}></a>5,912,665</td> */}
+                      <td><a style={{ marginLeft: '.5rem' }}></a>5,912,665</td>
                     </tr>
                     <tr>
                       <td>2017</td>
                       <td><a style={{ marginLeft: '2rem' }}></a>334,708</td>
                       <td>5,947,355</td>
-                      {/* <td><a style={{ marginLeft: '.5rem' }}></a>6,282,063</td> */}
+                      <td><a style={{ marginLeft: '.5rem' }}></a>6,282,063</td>
                     </tr>
                     <tr>
                       <td>2018</td>
                       <td><a style={{ marginLeft: '2rem' }}></a>348,970</td>
                       <td>6,095,890</td>
-                      {/* <td><a style={{ marginLeft: '.5rem' }}></a>6,444,860</td> */}
+                      <td><a style={{ marginLeft: '.5rem' }}></a>6,444,860</td>
                     </tr>
                     <tr>
                       <td>2019</td>
                       <td><a style={{ marginLeft: '2rem' }}></a>350,000</td>
                       <td>6,447,775</td>
-                      {/* <td><a style={{ marginLeft: '.5rem' }}></a>6,797,775</td> */}
+                      <td><a style={{ marginLeft: '.5rem' }}></a>6,797,775</td>
                     </tr>
                   </table>
               </li>
